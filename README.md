@@ -10,3 +10,7 @@ https://www.aozora.gr.jp/cards/001806/files/56795_55511.html
 ```
 nim c -r main.nim
 ```
+
+## 参考
+
+- https://qiita.com/6in/items/f47e44ee243aed47898c
