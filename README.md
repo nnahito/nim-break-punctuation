@@ -14,3 +14,5 @@ nim c -r main.nim
 ## 参考
 
 - https://qiita.com/6in/items/f47e44ee243aed47898c
+- https://qiita.com/khsk/items/599316178c6e2c72b94b
+- https://teratail.com/questions/108738
